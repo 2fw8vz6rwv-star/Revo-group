@@ -35,3 +35,4 @@ body{font-size:15px;background:var(--bg)}
 .mobile-brand .brand-wordmark b{font-size:18px;letter-spacing:-.55px;color:#20372a}
 .mobile-brand .brand-wordmark b em{color:#426b4c}
 .mobile-brand .brand-wordmark small{font-size:8px;letter-spacing:2px;color:#728075}
+.set-actions{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:10px 12px;margin:8px 0;border:1px solid #e6ece5;border-radius:8px;background:#f7faf7;color:#445348;font-size:11px}.set-actions .button{white-space:nowrap}@media(max-width:520px){.set-actions{align-items:flex-start;flex-direction:column}.set-actions .button{width:100%}}
